@@ -1,5 +1,9 @@
 # mev-base
 
+We're building advanced DEX bots for the community to support our mission at Cortex in advancing stem cell therapies and seizure prediction technologies for epilepsy treatment. By participating in our presale, you'll gain early access to these bots and receive full setup support. Join us in revolutionizing epilepsy treatment and be part of our journey!
+
+For more details, join our Discord at [Core Dex Community](https://discord.gg/AWDgU4WCwV)
+
 This repo is a cloneable starter template for Jito focused MEV bots on Solana. It is only opinionated on dependency structure, and leaves bot implementation up to the operator. The point of it is to do away with the boilerplate of setting up searcher and geyser protobufs for every new bot, and also to pin versions for the shared dependencies between the `searcher-client`, `geyser-client`, and `geyser-protos` crates.
 
 All included crates are from the [Jito Labs](https://github.com/jito-labs) and [Jito Foundation](https://github.com/jito-foundation) GitHub orgs. All code belongs to them. All solana and jito-solana crates in `lib/pkg-utils` are pinned to 1.14.13 for consistency.
